@@ -10,7 +10,7 @@ This repository accompanies our paper on continuous multi-view video anomaly und
 
 Industrial inspection is rarely limited to one static image. As a camera moves around an object, structural defects such as cracks, holes, bulges, broken regions, scratches, and concavities may only become visible during a short viewpoint interval.
 
-**MMVIAD** (Multi-view Multi-task Video Industrial Anomaly Detection) is a visibility-grounded video dataset and benchmark for this setting. Each sample is an object-centric 2-second inspection clip covering approximately 120 degrees of camera motion. The benchmark contains over 4,000 inspection clips across 48 object categories, 14 environments, and 6 structural anomaly types.
+**MMVIAD** (Multi-view Multi-task Video Industrial Anomaly Detection) is a visibility-grounded video dataset and benchmark for this setting. Each visual sample is an object-centric 2-second inspection clip covering approximately 120 degrees of camera motion. The benchmark test set contains over 4,000 QA instances across 48 object categories, 14 environments, and 6 structural anomaly types.
 
 MMVIAD evaluates four coupled QA-style tasks:
 
